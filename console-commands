@@ -1,2 +1,2 @@
 symlink:
-	ls -s [directory] [name]
+	ln -s [directory] [name]
